@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/themiralay/Proxy-List-World/refs/heads/master/data.txt
 https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/http.txt
 https://raw.githubusercontent.com/databay-labs/free-proxy-list/refs/heads/master/http.txt
+https://raw.githubusercontent.com/stormsia/proxy-list/refs/heads/main/working_proxies.txt
