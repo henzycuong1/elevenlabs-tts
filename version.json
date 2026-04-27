@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "url": "https://github.com/henzycuong1/elevenlabs-tts/releases/download/2.1.2/Elevenlabs_TTS_Tool_@Four1417_v2.1.2.exe",
-  "changelog": "- Fix lỗi khi dùng nhiều ký tự ngắt âm"
+  "version": "2.1.3",
+  "url": "https://github.com/henzycuong1/elevenlabs-tts/releases/download/2.1.3/Elevenlabs_TTS_Tool_@Four1417_v2.1.3.exe",
+  "changelog": "- Fix lỗi khi retry download bị mất data"
 }
